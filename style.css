@@ -169,6 +169,13 @@ body{
     opacity: 1;
   }
 
+  
+
+.about-para {
+list-style-type: none;
+}
+
+
 @media screen and (min-width: 992px){
     .about-wrapper{
         display: grid;
